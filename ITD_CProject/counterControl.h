@@ -11,4 +11,6 @@
 
 #include <stdio.h>
 
+void counterControl(void);
+
 #endif /* counterControl_h */

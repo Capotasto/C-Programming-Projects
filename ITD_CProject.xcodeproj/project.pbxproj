@@ -12,6 +12,7 @@
 		1A3E11B31CB588EC00D16579 /* increment.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A3E11B11CB588EC00D16579 /* increment.c */; };
 		1A3E11B61CB58BC100D16579 /* whileRepetition.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A3E11B41CB58BC100D16579 /* whileRepetition.c */; };
 		1A3E11B91CB58C4200D16579 /* ifSentence.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A3E11B71CB58C4200D16579 /* ifSentence.c */; };
+		1A3E11BC1CB590F100D16579 /* counterControl.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A3E11BA1CB590F100D16579 /* counterControl.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -37,6 +38,8 @@
 		1A3E11B51CB58BC100D16579 /* whileRepetition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = whileRepetition.h; sourceTree = "<group>"; };
 		1A3E11B71CB58C4200D16579 /* ifSentence.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ifSentence.c; sourceTree = "<group>"; };
 		1A3E11B81CB58C4200D16579 /* ifSentence.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ifSentence.h; sourceTree = "<group>"; };
+		1A3E11BA1CB590F100D16579 /* counterControl.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = counterControl.c; sourceTree = "<group>"; };
+		1A3E11BB1CB590F100D16579 /* counterControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = counterControl.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +73,8 @@
 			isa = PBXGroup;
 			children = (
 				1A3E11A71CB57F8700D16579 /* main.c */,
+				1A3E11BA1CB590F100D16579 /* counterControl.c */,
+				1A3E11BB1CB590F100D16579 /* counterControl.h */,
 				1A3E11B71CB58C4200D16579 /* ifSentence.c */,
 				1A3E11B81CB58C4200D16579 /* ifSentence.h */,
 				1A3E11B41CB58BC100D16579 /* whileRepetition.c */,
@@ -142,6 +147,7 @@
 				1A3E11B31CB588EC00D16579 /* increment.c in Sources */,
 				1A3E11B61CB58BC100D16579 /* whileRepetition.c in Sources */,
 				1A3E11A81CB57F8700D16579 /* main.c in Sources */,
+				1A3E11BC1CB590F100D16579 /* counterControl.c in Sources */,
 				1A3E11B91CB58C4200D16579 /* ifSentence.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -263,6 +269,7 @@
 				1A3E11AD1CB57F8700D16579 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

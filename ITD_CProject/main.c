@@ -17,7 +17,8 @@ int main(int argc, const char * argv[]) {
     //assignment1();
     //increment();
     //whileRepetition();
-    ifSentence();
+    //ifSentence();
+    counterControl();
     
     return 0;
 }
