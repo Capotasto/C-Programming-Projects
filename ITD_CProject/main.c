@@ -11,6 +11,7 @@
 #include "increment.h"
 #include "whileRepetition.h"
 #include "ifSentence.h"
+#include "evenNumberOddNumber.h"
 
 int main(int argc, const char * argv[]) {
     
@@ -18,7 +19,8 @@ int main(int argc, const char * argv[]) {
     //increment();
     //whileRepetition();
     //ifSentence();
-    counterControl();
+    //counterControl();
+    evenNumberOddNumber();
     
     return 0;
 }
