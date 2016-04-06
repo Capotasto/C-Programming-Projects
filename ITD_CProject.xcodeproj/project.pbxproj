@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		1A3E11A81CB57F8700D16579 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A3E11A71CB57F8700D16579 /* main.c */; };
+		1A3E11AF1CB57FCD00D16579 /* assignment1.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A3E11AE1CB57FCD00D16579 /* assignment1.c */; };
+		1A3E11B31CB588EC00D16579 /* increment.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A3E11B11CB588EC00D16579 /* increment.c */; };
+		1A3E11B61CB58BC100D16579 /* whileRepetition.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A3E11B41CB58BC100D16579 /* whileRepetition.c */; };
+		1A3E11B91CB58C4200D16579 /* ifSentence.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A3E11B71CB58C4200D16579 /* ifSentence.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +29,14 @@
 /* Begin PBXFileReference section */
 		1A3E11A41CB57F8700D16579 /* ITD_CProject */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ITD_CProject; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A3E11A71CB57F8700D16579 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		1A3E11AE1CB57FCD00D16579 /* assignment1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = assignment1.c; sourceTree = "<group>"; };
+		1A3E11B01CB581C800D16579 /* assingment1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = assingment1.h; sourceTree = "<group>"; };
+		1A3E11B11CB588EC00D16579 /* increment.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = increment.c; sourceTree = "<group>"; };
+		1A3E11B21CB588EC00D16579 /* increment.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = increment.h; sourceTree = "<group>"; };
+		1A3E11B41CB58BC100D16579 /* whileRepetition.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = whileRepetition.c; sourceTree = "<group>"; };
+		1A3E11B51CB58BC100D16579 /* whileRepetition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = whileRepetition.h; sourceTree = "<group>"; };
+		1A3E11B71CB58C4200D16579 /* ifSentence.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ifSentence.c; sourceTree = "<group>"; };
+		1A3E11B81CB58C4200D16579 /* ifSentence.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ifSentence.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +70,14 @@
 			isa = PBXGroup;
 			children = (
 				1A3E11A71CB57F8700D16579 /* main.c */,
+				1A3E11B71CB58C4200D16579 /* ifSentence.c */,
+				1A3E11B81CB58C4200D16579 /* ifSentence.h */,
+				1A3E11B41CB58BC100D16579 /* whileRepetition.c */,
+				1A3E11B51CB58BC100D16579 /* whileRepetition.h */,
+				1A3E11AE1CB57FCD00D16579 /* assignment1.c */,
+				1A3E11B01CB581C800D16579 /* assingment1.h */,
+				1A3E11B11CB588EC00D16579 /* increment.c */,
+				1A3E11B21CB588EC00D16579 /* increment.h */,
 			);
 			path = ITD_CProject;
 			sourceTree = "<group>";
@@ -118,7 +138,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1A3E11AF1CB57FCD00D16579 /* assignment1.c in Sources */,
+				1A3E11B31CB588EC00D16579 /* increment.c in Sources */,
+				1A3E11B61CB58BC100D16579 /* whileRepetition.c in Sources */,
 				1A3E11A81CB57F8700D16579 /* main.c in Sources */,
+				1A3E11B91CB58C4200D16579 /* ifSentence.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

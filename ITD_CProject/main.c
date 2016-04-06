@@ -7,9 +7,17 @@
 //
 
 #include <stdio.h>
+#include "assingment1.h"
+#include "increment.h"
+#include "whileRepetition.h"
+#include "ifSentence.h"
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
+    
+    //assignment1();
+    //increment();
+    //whileRepetition();
+    ifSentence();
+    
     return 0;
 }
