@@ -12,6 +12,13 @@
 #include "whileRepetition.h"
 #include "ifSentence.h"
 #include "evenNumberOddNumber.h"
+#include "switchCase.h"
+#include "doWhile.h"
+#include "loopBreak.h"
+#include "apr7exercise1.h"
+#include "functionbegining.h"
+#include "functionThreeNumberCompare.h"
+#include "functionExersice2.h"
 
 int main(int argc, const char * argv[]) {
     
@@ -20,7 +27,14 @@ int main(int argc, const char * argv[]) {
     //whileRepetition();
     //ifSentence();
     //counterControl();
-    evenNumberOddNumber();
+    //evenNumberOddNumber();
+    //switchCase();
+    //doWhile();
+    //loopBreak();
+    //apr7exercise1();
+    //functionbegining();
+    //functionThreeNumberCompare();
+    functionExersice2();
     
     return 0;
 }
