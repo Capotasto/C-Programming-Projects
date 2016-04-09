@@ -19,6 +19,13 @@
 #include "functionbegining.h"
 #include "functionThreeNumberCompare.h"
 #include "functionExersice2.h"
+#include "checkThePrime.h"
+#include "scopeExersice.h"
+#include "arrayExersice.h"
+
+void useGlobal(void);
+
+int x = 1; // Grobal Variable
 
 int main(int argc, const char * argv[]) {
     
@@ -34,7 +41,16 @@ int main(int argc, const char * argv[]) {
     //apr7exercise1();
     //functionbegining();
     //functionThreeNumberCompare();
-    functionExersice2();
+    //functionExersice2();
+    //checkThePrime();
+    //scopeExersice();
+    arrayExersice();
     
     return 0;
+}
+
+void useGlobal(void){
+    printf("\nglobal x is %d on entering useGrobal\n", x);
+    x *= 10;
+    printf("global x is %d on entering useGrobal\n", x);
 }
