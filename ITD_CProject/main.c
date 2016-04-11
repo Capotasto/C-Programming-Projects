@@ -22,6 +22,8 @@
 #include "checkThePrime.h"
 #include "scopeExersice.h"
 #include "arrayExersice.h"
+#include "AddingToArray.h"
+#include "checkTheLocationArray.h"
 
 void useGlobal(void);
 
@@ -44,7 +46,9 @@ int main(int argc, const char * argv[]) {
     //functionExersice2();
     //checkThePrime();
     //scopeExersice();
-    arrayExersice();
+    //arrayExersice();
+    //AddingToArray();
+    checkTheLocationArray();
     
     return 0;
 }

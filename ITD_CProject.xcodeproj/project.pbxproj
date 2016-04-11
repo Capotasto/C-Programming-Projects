@@ -10,6 +10,8 @@
 		1A1505091CB80EFE003AC3C3 /* checkThePrime.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A1505071CB80EFE003AC3C3 /* checkThePrime.c */; };
 		1A15050C1CB826EE003AC3C3 /* scopeExersice.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A15050A1CB826EE003AC3C3 /* scopeExersice.c */; };
 		1A15050F1CB8336E003AC3C3 /* arrayExersice.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A15050D1CB8336E003AC3C3 /* arrayExersice.c */; };
+		1A2358C51CBC076D002D227A /* AddingToArray.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A2358C31CBC076D002D227A /* AddingToArray.c */; };
+		1A2358C81CBC1D02002D227A /* checkTheLocationArray.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A2358C61CBC1D02002D227A /* checkTheLocationArray.c */; };
 		1A3E11A81CB57F8700D16579 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A3E11A71CB57F8700D16579 /* main.c */; };
 		1A3E11AF1CB57FCD00D16579 /* assignment1.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A3E11AE1CB57FCD00D16579 /* assignment1.c */; };
 		1A3E11B31CB588EC00D16579 /* increment.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A3E11B11CB588EC00D16579 /* increment.c */; };
@@ -45,6 +47,10 @@
 		1A15050B1CB826EE003AC3C3 /* scopeExersice.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = scopeExersice.h; sourceTree = "<group>"; };
 		1A15050D1CB8336E003AC3C3 /* arrayExersice.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = arrayExersice.c; sourceTree = "<group>"; };
 		1A15050E1CB8336E003AC3C3 /* arrayExersice.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = arrayExersice.h; sourceTree = "<group>"; };
+		1A2358C31CBC076D002D227A /* AddingToArray.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = AddingToArray.c; sourceTree = "<group>"; };
+		1A2358C41CBC076D002D227A /* AddingToArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddingToArray.h; sourceTree = "<group>"; };
+		1A2358C61CBC1D02002D227A /* checkTheLocationArray.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = checkTheLocationArray.c; sourceTree = "<group>"; };
+		1A2358C71CBC1D02002D227A /* checkTheLocationArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = checkTheLocationArray.h; sourceTree = "<group>"; };
 		1A3E11A41CB57F8700D16579 /* ITD_CProject */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ITD_CProject; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A3E11A71CB57F8700D16579 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		1A3E11AE1CB57FCD00D16579 /* assignment1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = assignment1.c; sourceTree = "<group>"; };
@@ -120,8 +126,12 @@
 				1A97C33E1CB6BFA900B4BA8F /* switchCase.c */,
 				1A97C33F1CB6BFA900B4BA8F /* switchCase.h */,
 				1A3E11A71CB57F8700D16579 /* main.c */,
-				1A15050A1CB826EE003AC3C3 /* scopeExersice.c */,
 				1A15050B1CB826EE003AC3C3 /* scopeExersice.h */,
+				1A15050A1CB826EE003AC3C3 /* scopeExersice.c */,
+				1A2358C41CBC076D002D227A /* AddingToArray.h */,
+				1A2358C31CBC076D002D227A /* AddingToArray.c */,
+				1A2358C71CBC1D02002D227A /* checkTheLocationArray.h */,
+				1A2358C61CBC1D02002D227A /* checkTheLocationArray.c */,
 				1A15050D1CB8336E003AC3C3 /* arrayExersice.c */,
 				1A15050E1CB8336E003AC3C3 /* arrayExersice.h */,
 				1A1505071CB80EFE003AC3C3 /* checkThePrime.c */,
@@ -199,6 +209,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1A3E11AF1CB57FCD00D16579 /* assignment1.c in Sources */,
+				1A2358C51CBC076D002D227A /* AddingToArray.c in Sources */,
 				1A3E11BF1CB59B6D00D16579 /* evenNumberOddNumber.c in Sources */,
 				1A15050C1CB826EE003AC3C3 /* scopeExersice.c in Sources */,
 				1A3E11B31CB588EC00D16579 /* increment.c in Sources */,
@@ -212,6 +223,7 @@
 				1A97C34C1CB6DEFA00B4BA8F /* functionbegining.c in Sources */,
 				1A3E11BC1CB590F100D16579 /* counterControl.c in Sources */,
 				1A97C3431CB6C82500B4BA8F /* doWhile.c in Sources */,
+				1A2358C81CBC1D02002D227A /* checkTheLocationArray.c in Sources */,
 				1A3E11B91CB58C4200D16579 /* ifSentence.c in Sources */,
 				1A1505091CB80EFE003AC3C3 /* checkThePrime.c in Sources */,
 				1A97C34F1CB6E35800B4BA8F /* functionThreeNumberCompare.c in Sources */,
