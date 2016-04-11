@@ -24,6 +24,7 @@
 #include "arrayExersice.h"
 #include "AddingToArray.h"
 #include "checkTheLocationArray.h"
+#include "sortingArrays.h"
 
 void useGlobal(void);
 
@@ -48,7 +49,8 @@ int main(int argc, const char * argv[]) {
     //scopeExersice();
     //arrayExersice();
     //AddingToArray();
-    checkTheLocationArray();
+    //checkTheLocationArray();
+    sortingArrays();
     
     return 0;
 }

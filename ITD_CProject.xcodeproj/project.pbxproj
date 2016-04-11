@@ -12,6 +12,7 @@
 		1A15050F1CB8336E003AC3C3 /* arrayExersice.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A15050D1CB8336E003AC3C3 /* arrayExersice.c */; };
 		1A2358C51CBC076D002D227A /* AddingToArray.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A2358C31CBC076D002D227A /* AddingToArray.c */; };
 		1A2358C81CBC1D02002D227A /* checkTheLocationArray.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A2358C61CBC1D02002D227A /* checkTheLocationArray.c */; };
+		1A2358CB1CBC2861002D227A /* sortingArrays.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A2358C91CBC2861002D227A /* sortingArrays.c */; };
 		1A3E11A81CB57F8700D16579 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A3E11A71CB57F8700D16579 /* main.c */; };
 		1A3E11AF1CB57FCD00D16579 /* assignment1.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A3E11AE1CB57FCD00D16579 /* assignment1.c */; };
 		1A3E11B31CB588EC00D16579 /* increment.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A3E11B11CB588EC00D16579 /* increment.c */; };
@@ -51,6 +52,8 @@
 		1A2358C41CBC076D002D227A /* AddingToArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddingToArray.h; sourceTree = "<group>"; };
 		1A2358C61CBC1D02002D227A /* checkTheLocationArray.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = checkTheLocationArray.c; sourceTree = "<group>"; };
 		1A2358C71CBC1D02002D227A /* checkTheLocationArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = checkTheLocationArray.h; sourceTree = "<group>"; };
+		1A2358C91CBC2861002D227A /* sortingArrays.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = sortingArrays.c; sourceTree = "<group>"; };
+		1A2358CA1CBC2861002D227A /* sortingArrays.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = sortingArrays.h; sourceTree = "<group>"; };
 		1A3E11A41CB57F8700D16579 /* ITD_CProject */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ITD_CProject; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A3E11A71CB57F8700D16579 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		1A3E11AE1CB57FCD00D16579 /* assignment1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = assignment1.c; sourceTree = "<group>"; };
@@ -126,6 +129,8 @@
 				1A97C33E1CB6BFA900B4BA8F /* switchCase.c */,
 				1A97C33F1CB6BFA900B4BA8F /* switchCase.h */,
 				1A3E11A71CB57F8700D16579 /* main.c */,
+				1A2358C91CBC2861002D227A /* sortingArrays.c */,
+				1A2358CA1CBC2861002D227A /* sortingArrays.h */,
 				1A15050B1CB826EE003AC3C3 /* scopeExersice.h */,
 				1A15050A1CB826EE003AC3C3 /* scopeExersice.c */,
 				1A2358C41CBC076D002D227A /* AddingToArray.h */,
@@ -213,6 +218,7 @@
 				1A3E11BF1CB59B6D00D16579 /* evenNumberOddNumber.c in Sources */,
 				1A15050C1CB826EE003AC3C3 /* scopeExersice.c in Sources */,
 				1A3E11B31CB588EC00D16579 /* increment.c in Sources */,
+				1A2358CB1CBC2861002D227A /* sortingArrays.c in Sources */,
 				1A97C3401CB6BFA900B4BA8F /* switchCase.c in Sources */,
 				1A3E11B61CB58BC100D16579 /* whileRepetition.c in Sources */,
 				1A15050F1CB8336E003AC3C3 /* arrayExersice.c in Sources */,
