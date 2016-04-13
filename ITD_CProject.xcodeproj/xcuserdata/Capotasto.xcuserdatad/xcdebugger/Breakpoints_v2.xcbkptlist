@@ -89,13 +89,13 @@
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "ITD_CProject/assignment1Array.c"
-            timestampString = "482196307.519868"
+            filePath = "ITD_CProject/midtermProject.c"
+            timestampString = "482269012.747078"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "193"
-            endingLineNumber = "193"
-            landmarkName = "mainAssignment1Array()"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "getSalary()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

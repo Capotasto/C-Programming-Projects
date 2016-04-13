@@ -12,13 +12,6 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-#define ROW_ASSIGNMENT_ARRAY 3
-#define COL_ASSIGNMENT_ARRAY 6
-
-int mainAssignment1Array(void);
-void getStudentIds(int a[ROW_ASSIGNMENT_ARRAY]);
-void putStudentIds(int a[ROW_ASSIGNMENT_ARRAY], int b[ROW_ASSIGNMENT_ARRAY][COL_ASSIGNMENT_ARRAY]);
-bool searchStudentId(int a[ROW_ASSIGNMENT_ARRAY], int typedNum);
-bool createTwoDimensionalArray(int a[ROW_ASSIGNMENT_ARRAY][COL_ASSIGNMENT_ARRAY], int id);
+void mainAssignment1Array(void);
 
 #endif /* assignment1Array_h */

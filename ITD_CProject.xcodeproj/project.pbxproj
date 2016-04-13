@@ -25,6 +25,7 @@
 		1A4EA4F61CBD62B30060F2BB /* assignment1Array.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A4EA4F41CBD62B30060F2BB /* assignment1Array.c */; };
 		1A4EA4F91CBD76600060F2BB /* pointerBeginning.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A4EA4F71CBD76600060F2BB /* pointerBeginning.c */; };
 		1A4EA4FC1CBD7F160060F2BB /* pointerArrayLoop.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A4EA4FA1CBD7F160060F2BB /* pointerArrayLoop.c */; };
+		1A4EA4FF1CBEA96B0060F2BB /* midtermProject.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A4EA4FD1CBEA96B0060F2BB /* midtermProject.c */; };
 		1A97C3401CB6BFA900B4BA8F /* switchCase.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A97C33E1CB6BFA900B4BA8F /* switchCase.c */; };
 		1A97C3431CB6C82500B4BA8F /* doWhile.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A97C3411CB6C82500B4BA8F /* doWhile.c */; };
 		1A97C3461CB6CAF500B4BA8F /* loopBreak.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A97C3441CB6CAF500B4BA8F /* loopBreak.c */; };
@@ -82,6 +83,8 @@
 		1A4EA4F81CBD76600060F2BB /* pointerBeginning.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pointerBeginning.h; sourceTree = "<group>"; };
 		1A4EA4FA1CBD7F160060F2BB /* pointerArrayLoop.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = pointerArrayLoop.c; sourceTree = "<group>"; };
 		1A4EA4FB1CBD7F160060F2BB /* pointerArrayLoop.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pointerArrayLoop.h; sourceTree = "<group>"; };
+		1A4EA4FD1CBEA96B0060F2BB /* midtermProject.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = midtermProject.c; sourceTree = "<group>"; };
+		1A4EA4FE1CBEA96B0060F2BB /* midtermProject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = midtermProject.h; sourceTree = "<group>"; };
 		1A97C33E1CB6BFA900B4BA8F /* switchCase.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = switchCase.c; sourceTree = "<group>"; };
 		1A97C33F1CB6BFA900B4BA8F /* switchCase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = switchCase.h; sourceTree = "<group>"; };
 		1A97C3411CB6C82500B4BA8F /* doWhile.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = doWhile.c; sourceTree = "<group>"; };
@@ -130,6 +133,8 @@
 				1A4EA4EF1CBD62790060F2BB /* diementionalArray.h */,
 				1A4EA4F51CBD62B30060F2BB /* assignment1Array.h */,
 				1A4EA4F41CBD62B30060F2BB /* assignment1Array.c */,
+				1A4EA4FD1CBEA96B0060F2BB /* midtermProject.c */,
+				1A4EA4FE1CBEA96B0060F2BB /* midtermProject.h */,
 				1A4EA4FA1CBD7F160060F2BB /* pointerArrayLoop.c */,
 				1A4EA4FB1CBD7F160060F2BB /* pointerArrayLoop.h */,
 				1A4EA4F71CBD76600060F2BB /* pointerBeginning.c */,
@@ -248,6 +253,7 @@
 				1A97C3491CB6D2A700B4BA8F /* apr7exercise1.c in Sources */,
 				1A97C3461CB6CAF500B4BA8F /* loopBreak.c in Sources */,
 				1A3E11A81CB57F8700D16579 /* main.c in Sources */,
+				1A4EA4FF1CBEA96B0060F2BB /* midtermProject.c in Sources */,
 				1A97C34C1CB6DEFA00B4BA8F /* functionbegining.c in Sources */,
 				1A3E11BC1CB590F100D16579 /* counterControl.c in Sources */,
 				1A97C3431CB6C82500B4BA8F /* doWhile.c in Sources */,

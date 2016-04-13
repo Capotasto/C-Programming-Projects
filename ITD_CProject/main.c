@@ -29,6 +29,7 @@
 #include "assignment1Array.h"
 #include "pointerBeginning.h"
 #include "pointerArrayLoop.h"
+#include "midtermProject.h"
 
 void useGlobal(void);
 
@@ -56,11 +57,12 @@ int main(int argc, const char * argv[]) {
     //checkTheLocationArray();
     //sortingArrays();
     //mainDimentionalArray();
-    int a = mainAssignment1Array();
+    mainAssignment1Array();
     //mainPointerBeginning();
     //mainPointerArrayLoop();
+    //mainMidtermProject();
     
-    return a;
+    return 0;
 }
 
 void useGlobal(void){
