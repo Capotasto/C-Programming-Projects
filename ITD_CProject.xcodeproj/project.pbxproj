@@ -20,13 +20,17 @@
 		1A3E11B91CB58C4200D16579 /* ifSentence.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A3E11B71CB58C4200D16579 /* ifSentence.c */; };
 		1A3E11BC1CB590F100D16579 /* counterControl.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A3E11BA1CB590F100D16579 /* counterControl.c */; };
 		1A3E11BF1CB59B6D00D16579 /* evenNumberOddNumber.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A3E11BD1CB59B6D00D16579 /* evenNumberOddNumber.c */; };
+		1A4EA4F21CBD62790060F2BB /* diementionalArray.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A4EA4EE1CBD62790060F2BB /* diementionalArray.c */; };
+		1A4EA4F31CBD62790060F2BB /* functionExersice2.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A4EA4F01CBD62790060F2BB /* functionExersice2.c */; };
+		1A4EA4F61CBD62B30060F2BB /* assignment1Array.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A4EA4F41CBD62B30060F2BB /* assignment1Array.c */; };
+		1A4EA4F91CBD76600060F2BB /* pointerBeginning.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A4EA4F71CBD76600060F2BB /* pointerBeginning.c */; };
+		1A4EA4FC1CBD7F160060F2BB /* pointerArrayLoop.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A4EA4FA1CBD7F160060F2BB /* pointerArrayLoop.c */; };
 		1A97C3401CB6BFA900B4BA8F /* switchCase.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A97C33E1CB6BFA900B4BA8F /* switchCase.c */; };
 		1A97C3431CB6C82500B4BA8F /* doWhile.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A97C3411CB6C82500B4BA8F /* doWhile.c */; };
 		1A97C3461CB6CAF500B4BA8F /* loopBreak.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A97C3441CB6CAF500B4BA8F /* loopBreak.c */; };
 		1A97C3491CB6D2A700B4BA8F /* apr7exercise1.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A97C3471CB6D2A700B4BA8F /* apr7exercise1.c */; };
 		1A97C34C1CB6DEFA00B4BA8F /* functionbegining.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A97C34A1CB6DEFA00B4BA8F /* functionbegining.c */; };
 		1A97C34F1CB6E35800B4BA8F /* functionThreeNumberCompare.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A97C34D1CB6E35800B4BA8F /* functionThreeNumberCompare.c */; };
-		1A97C3521CB6EE1900B4BA8F /* functionExersice2.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A97C3501CB6EE1900B4BA8F /* functionExersice2.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -68,6 +72,16 @@
 		1A3E11BB1CB590F100D16579 /* counterControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = counterControl.h; sourceTree = "<group>"; };
 		1A3E11BD1CB59B6D00D16579 /* evenNumberOddNumber.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = evenNumberOddNumber.c; sourceTree = "<group>"; };
 		1A3E11BE1CB59B6D00D16579 /* evenNumberOddNumber.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = evenNumberOddNumber.h; sourceTree = "<group>"; };
+		1A4EA4EE1CBD62790060F2BB /* diementionalArray.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = diementionalArray.c; sourceTree = "<group>"; };
+		1A4EA4EF1CBD62790060F2BB /* diementionalArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = diementionalArray.h; sourceTree = "<group>"; };
+		1A4EA4F01CBD62790060F2BB /* functionExersice2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = functionExersice2.c; sourceTree = "<group>"; };
+		1A4EA4F11CBD62790060F2BB /* functionExersice2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = functionExersice2.h; sourceTree = "<group>"; };
+		1A4EA4F41CBD62B30060F2BB /* assignment1Array.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = assignment1Array.c; sourceTree = "<group>"; };
+		1A4EA4F51CBD62B30060F2BB /* assignment1Array.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = assignment1Array.h; sourceTree = "<group>"; };
+		1A4EA4F71CBD76600060F2BB /* pointerBeginning.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = pointerBeginning.c; sourceTree = "<group>"; };
+		1A4EA4F81CBD76600060F2BB /* pointerBeginning.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pointerBeginning.h; sourceTree = "<group>"; };
+		1A4EA4FA1CBD7F160060F2BB /* pointerArrayLoop.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = pointerArrayLoop.c; sourceTree = "<group>"; };
+		1A4EA4FB1CBD7F160060F2BB /* pointerArrayLoop.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pointerArrayLoop.h; sourceTree = "<group>"; };
 		1A97C33E1CB6BFA900B4BA8F /* switchCase.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = switchCase.c; sourceTree = "<group>"; };
 		1A97C33F1CB6BFA900B4BA8F /* switchCase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = switchCase.h; sourceTree = "<group>"; };
 		1A97C3411CB6C82500B4BA8F /* doWhile.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = doWhile.c; sourceTree = "<group>"; };
@@ -80,8 +94,6 @@
 		1A97C34B1CB6DEFA00B4BA8F /* functionbegining.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = functionbegining.h; sourceTree = "<group>"; };
 		1A97C34D1CB6E35800B4BA8F /* functionThreeNumberCompare.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = functionThreeNumberCompare.c; sourceTree = "<group>"; };
 		1A97C34E1CB6E35800B4BA8F /* functionThreeNumberCompare.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = functionThreeNumberCompare.h; sourceTree = "<group>"; };
-		1A97C3501CB6EE1900B4BA8F /* functionExersice2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = functionExersice2.c; path = ../functionExersice2.c; sourceTree = "<group>"; };
-		1A97C3511CB6EE1900B4BA8F /* functionExersice2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = functionExersice2.h; path = ../functionExersice2.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,8 +126,16 @@
 		1A3E11A61CB57F8700D16579 /* ITD_CProject */ = {
 			isa = PBXGroup;
 			children = (
-				1A97C3501CB6EE1900B4BA8F /* functionExersice2.c */,
-				1A97C3511CB6EE1900B4BA8F /* functionExersice2.h */,
+				1A4EA4EE1CBD62790060F2BB /* diementionalArray.c */,
+				1A4EA4EF1CBD62790060F2BB /* diementionalArray.h */,
+				1A4EA4F51CBD62B30060F2BB /* assignment1Array.h */,
+				1A4EA4F41CBD62B30060F2BB /* assignment1Array.c */,
+				1A4EA4FA1CBD7F160060F2BB /* pointerArrayLoop.c */,
+				1A4EA4FB1CBD7F160060F2BB /* pointerArrayLoop.h */,
+				1A4EA4F71CBD76600060F2BB /* pointerBeginning.c */,
+				1A4EA4F81CBD76600060F2BB /* pointerBeginning.h */,
+				1A4EA4F01CBD62790060F2BB /* functionExersice2.c */,
+				1A4EA4F11CBD62790060F2BB /* functionExersice2.h */,
 				1A97C34D1CB6E35800B4BA8F /* functionThreeNumberCompare.c */,
 				1A97C34E1CB6E35800B4BA8F /* functionThreeNumberCompare.h */,
 				1A97C34A1CB6DEFA00B4BA8F /* functionbegining.c */,
@@ -213,17 +233,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1A4EA4F21CBD62790060F2BB /* diementionalArray.c in Sources */,
 				1A3E11AF1CB57FCD00D16579 /* assignment1.c in Sources */,
 				1A2358C51CBC076D002D227A /* AddingToArray.c in Sources */,
 				1A3E11BF1CB59B6D00D16579 /* evenNumberOddNumber.c in Sources */,
+				1A4EA4F61CBD62B30060F2BB /* assignment1Array.c in Sources */,
 				1A15050C1CB826EE003AC3C3 /* scopeExersice.c in Sources */,
 				1A3E11B31CB588EC00D16579 /* increment.c in Sources */,
 				1A2358CB1CBC2861002D227A /* sortingArrays.c in Sources */,
 				1A97C3401CB6BFA900B4BA8F /* switchCase.c in Sources */,
 				1A3E11B61CB58BC100D16579 /* whileRepetition.c in Sources */,
 				1A15050F1CB8336E003AC3C3 /* arrayExersice.c in Sources */,
+				1A4EA4F91CBD76600060F2BB /* pointerBeginning.c in Sources */,
 				1A97C3491CB6D2A700B4BA8F /* apr7exercise1.c in Sources */,
-				1A97C3521CB6EE1900B4BA8F /* functionExersice2.c in Sources */,
 				1A97C3461CB6CAF500B4BA8F /* loopBreak.c in Sources */,
 				1A3E11A81CB57F8700D16579 /* main.c in Sources */,
 				1A97C34C1CB6DEFA00B4BA8F /* functionbegining.c in Sources */,
@@ -232,6 +254,8 @@
 				1A2358C81CBC1D02002D227A /* checkTheLocationArray.c in Sources */,
 				1A3E11B91CB58C4200D16579 /* ifSentence.c in Sources */,
 				1A1505091CB80EFE003AC3C3 /* checkThePrime.c in Sources */,
+				1A4EA4FC1CBD7F160060F2BB /* pointerArrayLoop.c in Sources */,
+				1A4EA4F31CBD62790060F2BB /* functionExersice2.c in Sources */,
 				1A97C34F1CB6E35800B4BA8F /* functionThreeNumberCompare.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

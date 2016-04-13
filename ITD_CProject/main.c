@@ -25,6 +25,10 @@
 #include "AddingToArray.h"
 #include "checkTheLocationArray.h"
 #include "sortingArrays.h"
+#include "diementionalArray.h"
+#include "assignment1Array.h"
+#include "pointerBeginning.h"
+#include "pointerArrayLoop.h"
 
 void useGlobal(void);
 
@@ -50,9 +54,13 @@ int main(int argc, const char * argv[]) {
     //arrayExersice();
     //AddingToArray();
     //checkTheLocationArray();
-    sortingArrays();
+    //sortingArrays();
+    //mainDimentionalArray();
+    int a = mainAssignment1Array();
+    //mainPointerBeginning();
+    //mainPointerArrayLoop();
     
-    return 0;
+    return a;
 }
 
 void useGlobal(void){
