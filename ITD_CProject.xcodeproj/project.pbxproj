@@ -34,6 +34,9 @@
 		1A97C34F1CB6E35800B4BA8F /* functionThreeNumberCompare.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A97C34D1CB6E35800B4BA8F /* functionThreeNumberCompare.c */; };
 		1ABFC4961CC53F30004E2DF8 /* pointerClass.c in Sources */ = {isa = PBXBuildFile; fileRef = 1ABFC4941CC53F30004E2DF8 /* pointerClass.c */; };
 		1ABFC4991CC5594E004E2DF8 /* pointerFunction.c in Sources */ = {isa = PBXBuildFile; fileRef = 1ABFC4971CC5594E004E2DF8 /* pointerFunction.c */; };
+		1AE655471CC56E80004BF5C3 /* mainFirstHalf.c in Sources */ = {isa = PBXBuildFile; fileRef = 1AE655451CC56E80004BF5C3 /* mainFirstHalf.c */; };
+		1AE6554B1CC56FA2004BF5C3 /* pointerFuncArray.c in Sources */ = {isa = PBXBuildFile; fileRef = 1AE655491CC56FA2004BF5C3 /* pointerFuncArray.c */; };
+		1AE6554E1CC56FB3004BF5C3 /* mainSecondHalf.c in Sources */ = {isa = PBXBuildFile; fileRef = 1AE6554C1CC56FB3004BF5C3 /* mainSecondHalf.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -103,6 +106,12 @@
 		1ABFC4951CC53F30004E2DF8 /* pointerClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pointerClass.h; sourceTree = "<group>"; };
 		1ABFC4971CC5594E004E2DF8 /* pointerFunction.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = pointerFunction.c; sourceTree = "<group>"; };
 		1ABFC4981CC5594E004E2DF8 /* pointerFunction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pointerFunction.h; sourceTree = "<group>"; };
+		1AE655451CC56E80004BF5C3 /* mainFirstHalf.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = mainFirstHalf.c; sourceTree = "<group>"; };
+		1AE655461CC56E80004BF5C3 /* mainFirstHalf.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mainFirstHalf.h; sourceTree = "<group>"; };
+		1AE655491CC56FA2004BF5C3 /* pointerFuncArray.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = pointerFuncArray.c; sourceTree = "<group>"; };
+		1AE6554A1CC56FA2004BF5C3 /* pointerFuncArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pointerFuncArray.h; sourceTree = "<group>"; };
+		1AE6554C1CC56FB3004BF5C3 /* mainSecondHalf.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = mainSecondHalf.c; sourceTree = "<group>"; };
+		1AE6554D1CC56FB3004BF5C3 /* mainSecondHalf.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mainSecondHalf.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,6 +144,16 @@
 		1A3E11A61CB57F8700D16579 /* ITD_CProject */ = {
 			isa = PBXGroup;
 			children = (
+				1A3E11A71CB57F8700D16579 /* main.c */,
+				1ABFC49A1CC56D5E004E2DF8 /* FirstHalf */,
+				1AE655481CC56F62004BF5C3 /* SecondHalf */,
+			);
+			path = ITD_CProject;
+			sourceTree = "<group>";
+		};
+		1ABFC49A1CC56D5E004E2DF8 /* FirstHalf */ = {
+			isa = PBXGroup;
+			children = (
 				1A4EA4EE1CBD62790060F2BB /* diementionalArray.c */,
 				1A4EA4EF1CBD62790060F2BB /* diementionalArray.h */,
 				1A4EA4F51CBD62B30060F2BB /* assignment1Array.h */,
@@ -159,7 +178,6 @@
 				1A97C3421CB6C82500B4BA8F /* doWhile.h */,
 				1A97C33E1CB6BFA900B4BA8F /* switchCase.c */,
 				1A97C33F1CB6BFA900B4BA8F /* switchCase.h */,
-				1A3E11A71CB57F8700D16579 /* main.c */,
 				1A2358C91CBC2861002D227A /* sortingArrays.c */,
 				1A2358CA1CBC2861002D227A /* sortingArrays.h */,
 				1A15050B1CB826EE003AC3C3 /* scopeExersice.h */,
@@ -188,8 +206,21 @@
 				1ABFC4971CC5594E004E2DF8 /* pointerFunction.c */,
 				1ABFC4981CC5594E004E2DF8 /* pointerFunction.h */,
 				1ABFC4951CC53F30004E2DF8 /* pointerClass.h */,
+				1AE655451CC56E80004BF5C3 /* mainFirstHalf.c */,
+				1AE655461CC56E80004BF5C3 /* mainFirstHalf.h */,
 			);
-			path = ITD_CProject;
+			name = FirstHalf;
+			sourceTree = "<group>";
+		};
+		1AE655481CC56F62004BF5C3 /* SecondHalf */ = {
+			isa = PBXGroup;
+			children = (
+				1AE655491CC56FA2004BF5C3 /* pointerFuncArray.c */,
+				1AE6554A1CC56FA2004BF5C3 /* pointerFuncArray.h */,
+				1AE6554C1CC56FB3004BF5C3 /* mainSecondHalf.c */,
+				1AE6554D1CC56FB3004BF5C3 /* mainSecondHalf.h */,
+			);
+			name = SecondHalf;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -258,11 +289,14 @@
 				1A2358CB1CBC2861002D227A /* sortingArrays.c in Sources */,
 				1A97C3401CB6BFA900B4BA8F /* switchCase.c in Sources */,
 				1A3E11B61CB58BC100D16579 /* whileRepetition.c in Sources */,
+				1AE6554B1CC56FA2004BF5C3 /* pointerFuncArray.c in Sources */,
 				1ABFC4991CC5594E004E2DF8 /* pointerFunction.c in Sources */,
 				1ABFC4961CC53F30004E2DF8 /* pointerClass.c in Sources */,
+				1AE655471CC56E80004BF5C3 /* mainFirstHalf.c in Sources */,
 				1A15050F1CB8336E003AC3C3 /* arrayExersice.c in Sources */,
 				1A4EA4F91CBD76600060F2BB /* pointerBeginning.c in Sources */,
 				1A97C3491CB6D2A700B4BA8F /* apr7exercise1.c in Sources */,
+				1AE6554E1CC56FB3004BF5C3 /* mainSecondHalf.c in Sources */,
 				1A97C3461CB6CAF500B4BA8F /* loopBreak.c in Sources */,
 				1A3E11A81CB57F8700D16579 /* main.c in Sources */,
 				1A4EA4FF1CBEA96B0060F2BB /* midtermProject.c in Sources */,
