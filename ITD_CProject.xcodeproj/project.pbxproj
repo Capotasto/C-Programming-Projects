@@ -32,6 +32,7 @@
 		1A97C3491CB6D2A700B4BA8F /* apr7exercise1.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A97C3471CB6D2A700B4BA8F /* apr7exercise1.c */; };
 		1A97C34C1CB6DEFA00B4BA8F /* functionbegining.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A97C34A1CB6DEFA00B4BA8F /* functionbegining.c */; };
 		1A97C34F1CB6E35800B4BA8F /* functionThreeNumberCompare.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A97C34D1CB6E35800B4BA8F /* functionThreeNumberCompare.c */; };
+		1ABFC4961CC53F30004E2DF8 /* pointerClass.c in Sources */ = {isa = PBXBuildFile; fileRef = 1ABFC4941CC53F30004E2DF8 /* pointerClass.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -97,6 +98,8 @@
 		1A97C34B1CB6DEFA00B4BA8F /* functionbegining.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = functionbegining.h; sourceTree = "<group>"; };
 		1A97C34D1CB6E35800B4BA8F /* functionThreeNumberCompare.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = functionThreeNumberCompare.c; sourceTree = "<group>"; };
 		1A97C34E1CB6E35800B4BA8F /* functionThreeNumberCompare.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = functionThreeNumberCompare.h; sourceTree = "<group>"; };
+		1ABFC4941CC53F30004E2DF8 /* pointerClass.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = pointerClass.c; sourceTree = "<group>"; };
+		1ABFC4951CC53F30004E2DF8 /* pointerClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pointerClass.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -178,6 +181,8 @@
 				1A3E11B01CB581C800D16579 /* assingment1.h */,
 				1A3E11B11CB588EC00D16579 /* increment.c */,
 				1A3E11B21CB588EC00D16579 /* increment.h */,
+				1ABFC4941CC53F30004E2DF8 /* pointerClass.c */,
+				1ABFC4951CC53F30004E2DF8 /* pointerClass.h */,
 			);
 			path = ITD_CProject;
 			sourceTree = "<group>";
@@ -248,6 +253,7 @@
 				1A2358CB1CBC2861002D227A /* sortingArrays.c in Sources */,
 				1A97C3401CB6BFA900B4BA8F /* switchCase.c in Sources */,
 				1A3E11B61CB58BC100D16579 /* whileRepetition.c in Sources */,
+				1ABFC4961CC53F30004E2DF8 /* pointerClass.c in Sources */,
 				1A15050F1CB8336E003AC3C3 /* arrayExersice.c in Sources */,
 				1A4EA4F91CBD76600060F2BB /* pointerBeginning.c in Sources */,
 				1A97C3491CB6D2A700B4BA8F /* apr7exercise1.c in Sources */,

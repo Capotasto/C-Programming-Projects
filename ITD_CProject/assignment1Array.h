@@ -14,4 +14,6 @@
 
 void mainAssignment1Array(void);
 
+void mainPointerClass();
+
 #endif /* assignment1Array_h */
