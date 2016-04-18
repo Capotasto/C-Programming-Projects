@@ -10,19 +10,34 @@
 
 void pointerMultiply(int *num1, int *num2, int *result){
     
-    *result = *num1 * * num2;
+    *result = *num1 * *num2;
+
+}
+
+void pritArray(int array[5]){
+    
+    for(size_t i= 0; i < 5; i++){
+        printf("*(array+%lu) = %d\n", i, *(array+i));
+    }
 
 }
 
 
 void mainPointerClass(){
     
-    int num1, num2, result;
+    //int num1, num2, result;
+    //puts("Enter the number for num1 and num2 like this \'1, 2\'");
+    //scanf("%d, %d", &num1, &num2);
+    //pointerMultiply(&num1, &num2, &result);
+    //printf("%d, %d, %d\n", num1, num2, result);
     
-    puts("Enter the number for num1 and num2 like this \'1, 2\'");
-    scanf("%d, %d", &num1, &num2);
+    int array[5];
+    puts("Enter the number for array 5 times.");
+    for (size_t i = 0; i < sizeof(array)/sizeof(int); i++) {
+        scanf("%d", &array[i]);
+    }
     
-    pointerMultiply(&num1, &num2, &result);
+    pritArray(array);
     
-    printf("%d, %d, %d\n", num1, num2, result);
+    
 }

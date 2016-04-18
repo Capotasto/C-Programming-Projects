@@ -31,6 +31,7 @@
 #include "pointerArrayLoop.h"
 #include "midtermProject.h"
 #include "pointerClass.h"
+#include "pointerFunction.h"
 
 void useGlobal(void);
 
@@ -62,7 +63,8 @@ int main(int argc, const char * argv[]) {
     //mainPointerBeginning();
     //mainPointerArrayLoop();
     //mainMidtermProject();
-    mainPointerClass();
+    //mainPointerClass();
+    mainPointerFunction();
     
     return 0;
 }
