@@ -8,9 +8,13 @@
 
 #include "mainSecondHalf.h"
 #include "pointerFuncArray.h"
+#include "pointerArrayExercise.h"
+#include "Assingment2.h"
 
 void mainSecondHalf(){
     
-    mainPointerFuncArray();
+    //mainPointerFuncArray();
+    //mainVointerArrayExercise();
+    mainAssignment2();
     
 }

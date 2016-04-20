@@ -20,6 +20,8 @@
 		1A3E11B91CB58C4200D16579 /* ifSentence.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A3E11B71CB58C4200D16579 /* ifSentence.c */; };
 		1A3E11BC1CB590F100D16579 /* counterControl.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A3E11BA1CB590F100D16579 /* counterControl.c */; };
 		1A3E11BF1CB59B6D00D16579 /* evenNumberOddNumber.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A3E11BD1CB59B6D00D16579 /* evenNumberOddNumber.c */; };
+		1A4282421CC692B1005C4CDC /* pointerArrayExercise.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A4282401CC692B1005C4CDC /* pointerArrayExercise.c */; };
+		1A4282451CC6B614005C4CDC /* Assingment2.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A4282431CC6B614005C4CDC /* Assingment2.c */; };
 		1A4EA4F21CBD62790060F2BB /* diementionalArray.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A4EA4EE1CBD62790060F2BB /* diementionalArray.c */; };
 		1A4EA4F31CBD62790060F2BB /* functionExersice2.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A4EA4F01CBD62790060F2BB /* functionExersice2.c */; };
 		1A4EA4F61CBD62B30060F2BB /* assignment1Array.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A4EA4F41CBD62B30060F2BB /* assignment1Array.c */; };
@@ -78,6 +80,10 @@
 		1A3E11BB1CB590F100D16579 /* counterControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = counterControl.h; sourceTree = "<group>"; };
 		1A3E11BD1CB59B6D00D16579 /* evenNumberOddNumber.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = evenNumberOddNumber.c; sourceTree = "<group>"; };
 		1A3E11BE1CB59B6D00D16579 /* evenNumberOddNumber.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = evenNumberOddNumber.h; sourceTree = "<group>"; };
+		1A4282401CC692B1005C4CDC /* pointerArrayExercise.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = pointerArrayExercise.c; sourceTree = "<group>"; };
+		1A4282411CC692B1005C4CDC /* pointerArrayExercise.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pointerArrayExercise.h; sourceTree = "<group>"; };
+		1A4282431CC6B614005C4CDC /* Assingment2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Assingment2.c; sourceTree = "<group>"; };
+		1A4282441CC6B614005C4CDC /* Assingment2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Assingment2.h; sourceTree = "<group>"; };
 		1A4EA4EE1CBD62790060F2BB /* diementionalArray.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = diementionalArray.c; sourceTree = "<group>"; };
 		1A4EA4EF1CBD62790060F2BB /* diementionalArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = diementionalArray.h; sourceTree = "<group>"; };
 		1A4EA4F01CBD62790060F2BB /* functionExersice2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = functionExersice2.c; sourceTree = "<group>"; };
@@ -219,6 +225,10 @@
 				1AE6554A1CC56FA2004BF5C3 /* pointerFuncArray.h */,
 				1AE6554C1CC56FB3004BF5C3 /* mainSecondHalf.c */,
 				1AE6554D1CC56FB3004BF5C3 /* mainSecondHalf.h */,
+				1A4282401CC692B1005C4CDC /* pointerArrayExercise.c */,
+				1A4282411CC692B1005C4CDC /* pointerArrayExercise.h */,
+				1A4282431CC6B614005C4CDC /* Assingment2.c */,
+				1A4282441CC6B614005C4CDC /* Assingment2.h */,
 			);
 			name = SecondHalf;
 			sourceTree = "<group>";
@@ -283,10 +293,12 @@
 				1A3E11AF1CB57FCD00D16579 /* assignment1.c in Sources */,
 				1A2358C51CBC076D002D227A /* AddingToArray.c in Sources */,
 				1A3E11BF1CB59B6D00D16579 /* evenNumberOddNumber.c in Sources */,
+				1A4282421CC692B1005C4CDC /* pointerArrayExercise.c in Sources */,
 				1A4EA4F61CBD62B30060F2BB /* assignment1Array.c in Sources */,
 				1A15050C1CB826EE003AC3C3 /* scopeExersice.c in Sources */,
 				1A3E11B31CB588EC00D16579 /* increment.c in Sources */,
 				1A2358CB1CBC2861002D227A /* sortingArrays.c in Sources */,
+				1A4282451CC6B614005C4CDC /* Assingment2.c in Sources */,
 				1A97C3401CB6BFA900B4BA8F /* switchCase.c in Sources */,
 				1A3E11B61CB58BC100D16579 /* whileRepetition.c in Sources */,
 				1AE6554B1CC56FA2004BF5C3 /* pointerFuncArray.c in Sources */,
