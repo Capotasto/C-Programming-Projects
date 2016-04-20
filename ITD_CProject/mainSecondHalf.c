@@ -10,11 +10,13 @@
 #include "pointerFuncArray.h"
 #include "pointerArrayExercise.h"
 #include "Assingment2.h"
+#include "strToDouble.h"
 
 void mainSecondHalf(){
     
     //mainPointerFuncArray();
     //mainVointerArrayExercise();
-    mainAssignment2();
+    //mainAssignment2();
+    mainStrToDouble();
     
 }

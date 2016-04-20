@@ -22,6 +22,7 @@
 		1A3E11BF1CB59B6D00D16579 /* evenNumberOddNumber.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A3E11BD1CB59B6D00D16579 /* evenNumberOddNumber.c */; };
 		1A4282421CC692B1005C4CDC /* pointerArrayExercise.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A4282401CC692B1005C4CDC /* pointerArrayExercise.c */; };
 		1A4282451CC6B614005C4CDC /* Assingment2.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A4282431CC6B614005C4CDC /* Assingment2.c */; };
+		1A4282511CC81049005C4CDC /* strToDouble.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A42824F1CC81049005C4CDC /* strToDouble.c */; };
 		1A4EA4F21CBD62790060F2BB /* diementionalArray.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A4EA4EE1CBD62790060F2BB /* diementionalArray.c */; };
 		1A4EA4F31CBD62790060F2BB /* functionExersice2.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A4EA4F01CBD62790060F2BB /* functionExersice2.c */; };
 		1A4EA4F61CBD62B30060F2BB /* assignment1Array.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A4EA4F41CBD62B30060F2BB /* assignment1Array.c */; };
@@ -84,6 +85,8 @@
 		1A4282411CC692B1005C4CDC /* pointerArrayExercise.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pointerArrayExercise.h; sourceTree = "<group>"; };
 		1A4282431CC6B614005C4CDC /* Assingment2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Assingment2.c; sourceTree = "<group>"; };
 		1A4282441CC6B614005C4CDC /* Assingment2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Assingment2.h; sourceTree = "<group>"; };
+		1A42824F1CC81049005C4CDC /* strToDouble.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = strToDouble.c; sourceTree = "<group>"; };
+		1A4282501CC81049005C4CDC /* strToDouble.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = strToDouble.h; sourceTree = "<group>"; };
 		1A4EA4EE1CBD62790060F2BB /* diementionalArray.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = diementionalArray.c; sourceTree = "<group>"; };
 		1A4EA4EF1CBD62790060F2BB /* diementionalArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = diementionalArray.h; sourceTree = "<group>"; };
 		1A4EA4F01CBD62790060F2BB /* functionExersice2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = functionExersice2.c; sourceTree = "<group>"; };
@@ -228,6 +231,8 @@
 				1A4282401CC692B1005C4CDC /* pointerArrayExercise.c */,
 				1A4282411CC692B1005C4CDC /* pointerArrayExercise.h */,
 				1A4282431CC6B614005C4CDC /* Assingment2.c */,
+				1A42824F1CC81049005C4CDC /* strToDouble.c */,
+				1A4282501CC81049005C4CDC /* strToDouble.h */,
 				1A4282441CC6B614005C4CDC /* Assingment2.h */,
 			);
 			name = SecondHalf;
@@ -303,6 +308,7 @@
 				1A3E11B61CB58BC100D16579 /* whileRepetition.c in Sources */,
 				1AE6554B1CC56FA2004BF5C3 /* pointerFuncArray.c in Sources */,
 				1ABFC4991CC5594E004E2DF8 /* pointerFunction.c in Sources */,
+				1A4282511CC81049005C4CDC /* strToDouble.c in Sources */,
 				1ABFC4961CC53F30004E2DF8 /* pointerClass.c in Sources */,
 				1AE655471CC56E80004BF5C3 /* mainFirstHalf.c in Sources */,
 				1A15050F1CB8336E003AC3C3 /* arrayExersice.c in Sources */,
