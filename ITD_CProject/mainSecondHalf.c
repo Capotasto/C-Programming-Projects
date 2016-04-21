@@ -12,6 +12,7 @@
 #include "Assingment2.h"
 #include "strToDouble.h"
 #include "pointerExercise.h"
+#include "recursion.h"
 
 void mainSecondHalf(){
     
@@ -19,5 +20,9 @@ void mainSecondHalf(){
     //mainVointerArrayExercise();
     //mainAssignment2();
     //mainStrToDouble();
-    pointerExercise();
+    //pointerExercise();
+    //recursion();
+    //getCharFunction();
+    //sprintfExer();
+    sscanfExer();
 }

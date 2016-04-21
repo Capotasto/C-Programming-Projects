@@ -20,7 +20,7 @@ void checkItems(int array[arraySize], int *result){
         }else if (array[i]%5 == 0){
             *(result+i) = array[i] * 50;
             
-        }else if(array[i]%10 == 0){
+        }else if(array[i]%2 == 0){
             *(result+i) = array[i] * 20;
             
         }else{
