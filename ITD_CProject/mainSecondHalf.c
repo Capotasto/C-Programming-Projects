@@ -13,6 +13,7 @@
 #include "strToDouble.h"
 #include "pointerExercise.h"
 #include "recursion.h"
+#include "finalExam.h"
 
 void mainSecondHalf(){
     
@@ -24,5 +25,6 @@ void mainSecondHalf(){
     //recursion();
     //getCharFunction();
     //sprintfExer();
-    sscanfExer();
+    //sscanfExer();
+    finalExam();
 }
