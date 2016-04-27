@@ -9,11 +9,13 @@
 #include <stdio.h>
 #include "mainFirstHalf.h"
 #include "mainSecondHalf.h"
+#include "mainCproject.h"
 
 int main(int argc, const char * argv[]) {
     
     //mainFirstHalf();
-    mainSecondHalf();
+    //mainSecondHalf();
+    mainCproject();
     
     return 0;
 }

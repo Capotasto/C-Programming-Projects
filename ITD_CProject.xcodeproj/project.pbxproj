@@ -8,6 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		1A0D62261CC957F000565C02 /* recursion.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A0D62241CC957F000565C02 /* recursion.c */; };
+		1A1468271CCE842E003729D5 /* memoryAllocate.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A1468251CCE842E003729D5 /* memoryAllocate.c */; };
+		1A14682A1CCFCD2E003729D5 /* dynamicArray.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A1468281CCFCD2E003729D5 /* dynamicArray.c */; };
+		1A14682E1CCFEB9E003729D5 /* mainCproject.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A14682C1CCFEB9E003729D5 /* mainCproject.c */; };
+		1A1468311CCFEC60003729D5 /* Assginment1.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A14682F1CCFEC60003729D5 /* Assginment1.c */; };
+		1A1468341CCFEC96003729D5 /* dynamicarrayExer.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A1468321CCFEC96003729D5 /* dynamicarrayExer.c */; };
 		1A1505091CB80EFE003AC3C3 /* checkThePrime.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A1505071CB80EFE003AC3C3 /* checkThePrime.c */; };
 		1A15050C1CB826EE003AC3C3 /* scopeExersice.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A15050A1CB826EE003AC3C3 /* scopeExersice.c */; };
 		1A15050F1CB8336E003AC3C3 /* arrayExersice.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A15050D1CB8336E003AC3C3 /* arrayExersice.c */; };
@@ -60,6 +65,16 @@
 /* Begin PBXFileReference section */
 		1A0D62241CC957F000565C02 /* recursion.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = recursion.c; sourceTree = "<group>"; };
 		1A0D62251CC957F000565C02 /* recursion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = recursion.h; sourceTree = "<group>"; };
+		1A1468251CCE842E003729D5 /* memoryAllocate.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = memoryAllocate.c; sourceTree = "<group>"; };
+		1A1468261CCE842E003729D5 /* memoryAllocate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = memoryAllocate.h; sourceTree = "<group>"; };
+		1A1468281CCFCD2E003729D5 /* dynamicArray.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = dynamicArray.c; sourceTree = "<group>"; };
+		1A1468291CCFCD2E003729D5 /* dynamicArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = dynamicArray.h; sourceTree = "<group>"; };
+		1A14682C1CCFEB9E003729D5 /* mainCproject.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = mainCproject.c; sourceTree = "<group>"; };
+		1A14682D1CCFEB9E003729D5 /* mainCproject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mainCproject.h; sourceTree = "<group>"; };
+		1A14682F1CCFEC60003729D5 /* Assginment1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Assginment1.c; sourceTree = "<group>"; };
+		1A1468301CCFEC60003729D5 /* Assginment1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Assginment1.h; sourceTree = "<group>"; };
+		1A1468321CCFEC96003729D5 /* dynamicarrayExer.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = dynamicarrayExer.c; sourceTree = "<group>"; };
+		1A1468331CCFEC96003729D5 /* dynamicarrayExer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = dynamicarrayExer.h; sourceTree = "<group>"; };
 		1A1505071CB80EFE003AC3C3 /* checkThePrime.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = checkThePrime.c; sourceTree = "<group>"; };
 		1A1505081CB80EFE003AC3C3 /* checkThePrime.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = checkThePrime.h; sourceTree = "<group>"; };
 		1A15050A1CB826EE003AC3C3 /* scopeExersice.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = scopeExersice.c; sourceTree = "<group>"; };
@@ -143,6 +158,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1A14682B1CCFEB4D003729D5 /* CProject */ = {
+			isa = PBXGroup;
+			children = (
+				1A14682C1CCFEB9E003729D5 /* mainCproject.c */,
+				1A14682D1CCFEB9E003729D5 /* mainCproject.h */,
+				1A1468321CCFEC96003729D5 /* dynamicarrayExer.c */,
+				1A1468331CCFEC96003729D5 /* dynamicarrayExer.h */,
+				1A14682F1CCFEC60003729D5 /* Assginment1.c */,
+				1A1468301CCFEC60003729D5 /* Assginment1.h */,
+			);
+			name = CProject;
+			sourceTree = "<group>";
+		};
 		1A3E119B1CB57F8700D16579 = {
 			isa = PBXGroup;
 			children = (
@@ -163,6 +191,7 @@
 			isa = PBXGroup;
 			children = (
 				1A3E11A71CB57F8700D16579 /* main.c */,
+				1A14682B1CCFEB4D003729D5 /* CProject */,
 				1ABFC49A1CC56D5E004E2DF8 /* FirstHalf */,
 				1AE655481CC56F62004BF5C3 /* SecondHalf */,
 			);
@@ -238,17 +267,21 @@
 				1AE6554C1CC56FB3004BF5C3 /* mainSecondHalf.c */,
 				1AE6554D1CC56FB3004BF5C3 /* mainSecondHalf.h */,
 				1ADB284A1CCA840800D7A203 /* finalExam.c */,
+				1A1468251CCE842E003729D5 /* memoryAllocate.c */,
+				1A1468261CCE842E003729D5 /* memoryAllocate.h */,
 				1ADB284B1CCA840800D7A203 /* finalExam.h */,
 				1A4282401CC692B1005C4CDC /* pointerArrayExercise.c */,
 				1A4282411CC692B1005C4CDC /* pointerArrayExercise.h */,
 				1A4282431CC6B614005C4CDC /* Assingment2.c */,
+				1A1468281CCFCD2E003729D5 /* dynamicArray.c */,
+				1A1468291CCFCD2E003729D5 /* dynamicArray.h */,
+				1A4282441CC6B614005C4CDC /* Assingment2.h */,
 				1A26BABE1CC936AB006A1898 /* pointerExercise.c */,
+				1A26BABF1CC936AB006A1898 /* pointerExercise.h */,
 				1A0D62241CC957F000565C02 /* recursion.c */,
 				1A0D62251CC957F000565C02 /* recursion.h */,
-				1A26BABF1CC936AB006A1898 /* pointerExercise.h */,
 				1A42824F1CC81049005C4CDC /* strToDouble.c */,
 				1A4282501CC81049005C4CDC /* strToDouble.h */,
-				1A4282441CC6B614005C4CDC /* Assingment2.h */,
 			);
 			name = SecondHalf;
 			sourceTree = "<group>";
@@ -316,6 +349,7 @@
 				1A4282421CC692B1005C4CDC /* pointerArrayExercise.c in Sources */,
 				1A4EA4F61CBD62B30060F2BB /* assignment1Array.c in Sources */,
 				1A15050C1CB826EE003AC3C3 /* scopeExersice.c in Sources */,
+				1A1468341CCFEC96003729D5 /* dynamicarrayExer.c in Sources */,
 				1A3E11B31CB588EC00D16579 /* increment.c in Sources */,
 				1A0D62261CC957F000565C02 /* recursion.c in Sources */,
 				1A2358CB1CBC2861002D227A /* sortingArrays.c in Sources */,
@@ -329,8 +363,12 @@
 				1AE655471CC56E80004BF5C3 /* mainFirstHalf.c in Sources */,
 				1A15050F1CB8336E003AC3C3 /* arrayExersice.c in Sources */,
 				1A4EA4F91CBD76600060F2BB /* pointerBeginning.c in Sources */,
+				1A14682E1CCFEB9E003729D5 /* mainCproject.c in Sources */,
+				1A1468271CCE842E003729D5 /* memoryAllocate.c in Sources */,
 				1A97C3491CB6D2A700B4BA8F /* apr7exercise1.c in Sources */,
 				1ADB284C1CCA840800D7A203 /* finalExam.c in Sources */,
+				1A1468311CCFEC60003729D5 /* Assginment1.c in Sources */,
+				1A14682A1CCFCD2E003729D5 /* dynamicArray.c in Sources */,
 				1AE6554E1CC56FB3004BF5C3 /* mainSecondHalf.c in Sources */,
 				1A97C3461CB6CAF500B4BA8F /* loopBreak.c in Sources */,
 				1A3E11A81CB57F8700D16579 /* main.c in Sources */,

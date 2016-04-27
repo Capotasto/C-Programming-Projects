@@ -14,6 +14,8 @@
 #include "pointerExercise.h"
 #include "recursion.h"
 #include "finalExam.h"
+#include "memoryAllocate.h"
+#include "dynamicArray.h"
 
 void mainSecondHalf(){
     
@@ -26,5 +28,7 @@ void mainSecondHalf(){
     //getCharFunction();
     //sprintfExer();
     //sscanfExer();
-    finalExam();
+    //finalExam();
+    //mainMemoryAllocate();
+    dynamicArray();
 }
