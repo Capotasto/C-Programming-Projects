@@ -9,9 +9,14 @@
 #include "mainCproject.h"
 #include "Assginment1.h"
 #include "dynamicarrayExer.h"
+#include "dynamicArrayExer2.h"
+#include "Assignmet2_Project.h"
+#include "structureExer.h"
 
 void mainCproject(){
-    Assginment1();
+    //Assginment1();
     //dynamicarrayExer();
-    
+    //dynamicArrayExer2();
+    Assignmet2_Project();
+    //structureExer();
 }

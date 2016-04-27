@@ -30,6 +30,9 @@
 		1A4282421CC692B1005C4CDC /* pointerArrayExercise.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A4282401CC692B1005C4CDC /* pointerArrayExercise.c */; };
 		1A4282451CC6B614005C4CDC /* Assingment2.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A4282431CC6B614005C4CDC /* Assingment2.c */; };
 		1A4282511CC81049005C4CDC /* strToDouble.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A42824F1CC81049005C4CDC /* strToDouble.c */; };
+		1A44308D1CD11EAB00726AFE /* dynamicArrayExer2.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A44308B1CD11EAB00726AFE /* dynamicArrayExer2.c */; };
+		1A4430901CD125B300726AFE /* Assignmet2_Project.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A44308E1CD125B300726AFE /* Assignmet2_Project.c */; };
+		1A4430931CD1277500726AFE /* structureExer.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A4430911CD1277500726AFE /* structureExer.c */; };
 		1A4EA4F21CBD62790060F2BB /* diementionalArray.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A4EA4EE1CBD62790060F2BB /* diementionalArray.c */; };
 		1A4EA4F31CBD62790060F2BB /* functionExersice2.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A4EA4F01CBD62790060F2BB /* functionExersice2.c */; };
 		1A4EA4F61CBD62B30060F2BB /* assignment1Array.c in Sources */ = {isa = PBXBuildFile; fileRef = 1A4EA4F41CBD62B30060F2BB /* assignment1Array.c */; };
@@ -109,6 +112,12 @@
 		1A4282441CC6B614005C4CDC /* Assingment2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Assingment2.h; sourceTree = "<group>"; };
 		1A42824F1CC81049005C4CDC /* strToDouble.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = strToDouble.c; sourceTree = "<group>"; };
 		1A4282501CC81049005C4CDC /* strToDouble.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = strToDouble.h; sourceTree = "<group>"; };
+		1A44308B1CD11EAB00726AFE /* dynamicArrayExer2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = dynamicArrayExer2.c; sourceTree = "<group>"; };
+		1A44308C1CD11EAB00726AFE /* dynamicArrayExer2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = dynamicArrayExer2.h; sourceTree = "<group>"; };
+		1A44308E1CD125B300726AFE /* Assignmet2_Project.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Assignmet2_Project.c; sourceTree = "<group>"; };
+		1A44308F1CD125B300726AFE /* Assignmet2_Project.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Assignmet2_Project.h; sourceTree = "<group>"; };
+		1A4430911CD1277500726AFE /* structureExer.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = structureExer.c; sourceTree = "<group>"; };
+		1A4430921CD1277500726AFE /* structureExer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = structureExer.h; sourceTree = "<group>"; };
 		1A4EA4EE1CBD62790060F2BB /* diementionalArray.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = diementionalArray.c; sourceTree = "<group>"; };
 		1A4EA4EF1CBD62790060F2BB /* diementionalArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = diementionalArray.h; sourceTree = "<group>"; };
 		1A4EA4F01CBD62790060F2BB /* functionExersice2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = functionExersice2.c; sourceTree = "<group>"; };
@@ -167,6 +176,12 @@
 				1A1468331CCFEC96003729D5 /* dynamicarrayExer.h */,
 				1A14682F1CCFEC60003729D5 /* Assginment1.c */,
 				1A1468301CCFEC60003729D5 /* Assginment1.h */,
+				1A44308B1CD11EAB00726AFE /* dynamicArrayExer2.c */,
+				1A44308C1CD11EAB00726AFE /* dynamicArrayExer2.h */,
+				1A44308E1CD125B300726AFE /* Assignmet2_Project.c */,
+				1A44308F1CD125B300726AFE /* Assignmet2_Project.h */,
+				1A4430911CD1277500726AFE /* structureExer.c */,
+				1A4430921CD1277500726AFE /* structureExer.h */,
 			);
 			name = CProject;
 			sourceTree = "<group>";
@@ -354,6 +369,7 @@
 				1A0D62261CC957F000565C02 /* recursion.c in Sources */,
 				1A2358CB1CBC2861002D227A /* sortingArrays.c in Sources */,
 				1A4282451CC6B614005C4CDC /* Assingment2.c in Sources */,
+				1A4430901CD125B300726AFE /* Assignmet2_Project.c in Sources */,
 				1A97C3401CB6BFA900B4BA8F /* switchCase.c in Sources */,
 				1A3E11B61CB58BC100D16579 /* whileRepetition.c in Sources */,
 				1AE6554B1CC56FA2004BF5C3 /* pointerFuncArray.c in Sources */,
@@ -372,7 +388,9 @@
 				1AE6554E1CC56FB3004BF5C3 /* mainSecondHalf.c in Sources */,
 				1A97C3461CB6CAF500B4BA8F /* loopBreak.c in Sources */,
 				1A3E11A81CB57F8700D16579 /* main.c in Sources */,
+				1A44308D1CD11EAB00726AFE /* dynamicArrayExer2.c in Sources */,
 				1A4EA4FF1CBEA96B0060F2BB /* midtermProject.c in Sources */,
+				1A4430931CD1277500726AFE /* structureExer.c in Sources */,
 				1A97C34C1CB6DEFA00B4BA8F /* functionbegining.c in Sources */,
 				1A3E11BC1CB590F100D16579 /* counterControl.c in Sources */,
 				1A97C3431CB6C82500B4BA8F /* doWhile.c in Sources */,
