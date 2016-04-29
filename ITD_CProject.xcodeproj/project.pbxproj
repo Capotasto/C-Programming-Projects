@@ -51,6 +51,8 @@
 		1AE655471CC56E80004BF5C3 /* mainFirstHalf.c in Sources */ = {isa = PBXBuildFile; fileRef = 1AE655451CC56E80004BF5C3 /* mainFirstHalf.c */; };
 		1AE6554B1CC56FA2004BF5C3 /* pointerFuncArray.c in Sources */ = {isa = PBXBuildFile; fileRef = 1AE655491CC56FA2004BF5C3 /* pointerFuncArray.c */; };
 		1AE6554E1CC56FB3004BF5C3 /* mainSecondHalf.c in Sources */ = {isa = PBXBuildFile; fileRef = 1AE6554C1CC56FB3004BF5C3 /* mainSecondHalf.c */; };
+		1AF9FCDE1CD2703700043CC8 /* structureExer2.c in Sources */ = {isa = PBXBuildFile; fileRef = 1AF9FCDC1CD2703700043CC8 /* structureExer2.c */; };
+		1AF9FCE11CD2A06400043CC8 /* singlyLinkedList.c in Sources */ = {isa = PBXBuildFile; fileRef = 1AF9FCDF1CD2A06400043CC8 /* singlyLinkedList.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -154,6 +156,10 @@
 		1AE6554A1CC56FA2004BF5C3 /* pointerFuncArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pointerFuncArray.h; sourceTree = "<group>"; };
 		1AE6554C1CC56FB3004BF5C3 /* mainSecondHalf.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = mainSecondHalf.c; sourceTree = "<group>"; };
 		1AE6554D1CC56FB3004BF5C3 /* mainSecondHalf.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mainSecondHalf.h; sourceTree = "<group>"; };
+		1AF9FCDC1CD2703700043CC8 /* structureExer2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = structureExer2.c; sourceTree = "<group>"; };
+		1AF9FCDD1CD2703700043CC8 /* structureExer2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = structureExer2.h; sourceTree = "<group>"; };
+		1AF9FCDF1CD2A06400043CC8 /* singlyLinkedList.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = singlyLinkedList.c; sourceTree = "<group>"; };
+		1AF9FCE01CD2A06400043CC8 /* singlyLinkedList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = singlyLinkedList.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -170,18 +176,22 @@
 		1A14682B1CCFEB4D003729D5 /* CProject */ = {
 			isa = PBXGroup;
 			children = (
-				1A14682C1CCFEB9E003729D5 /* mainCproject.c */,
-				1A14682D1CCFEB9E003729D5 /* mainCproject.h */,
-				1A1468321CCFEC96003729D5 /* dynamicarrayExer.c */,
-				1A1468331CCFEC96003729D5 /* dynamicarrayExer.h */,
 				1A14682F1CCFEC60003729D5 /* Assginment1.c */,
 				1A1468301CCFEC60003729D5 /* Assginment1.h */,
-				1A44308B1CD11EAB00726AFE /* dynamicArrayExer2.c */,
-				1A44308C1CD11EAB00726AFE /* dynamicArrayExer2.h */,
 				1A44308E1CD125B300726AFE /* Assignmet2_Project.c */,
 				1A44308F1CD125B300726AFE /* Assignmet2_Project.h */,
+				1A1468321CCFEC96003729D5 /* dynamicarrayExer.c */,
+				1A1468331CCFEC96003729D5 /* dynamicarrayExer.h */,
+				1A44308B1CD11EAB00726AFE /* dynamicArrayExer2.c */,
+				1A44308C1CD11EAB00726AFE /* dynamicArrayExer2.h */,
+				1A14682C1CCFEB9E003729D5 /* mainCproject.c */,
+				1A14682D1CCFEB9E003729D5 /* mainCproject.h */,
+				1AF9FCDF1CD2A06400043CC8 /* singlyLinkedList.c */,
+				1AF9FCE01CD2A06400043CC8 /* singlyLinkedList.h */,
 				1A4430911CD1277500726AFE /* structureExer.c */,
 				1A4430921CD1277500726AFE /* structureExer.h */,
+				1AF9FCDC1CD2703700043CC8 /* structureExer2.c */,
+				1AF9FCDD1CD2703700043CC8 /* structureExer2.h */,
 			);
 			name = CProject;
 			sourceTree = "<group>";
@@ -380,6 +390,7 @@
 				1A15050F1CB8336E003AC3C3 /* arrayExersice.c in Sources */,
 				1A4EA4F91CBD76600060F2BB /* pointerBeginning.c in Sources */,
 				1A14682E1CCFEB9E003729D5 /* mainCproject.c in Sources */,
+				1AF9FCDE1CD2703700043CC8 /* structureExer2.c in Sources */,
 				1A1468271CCE842E003729D5 /* memoryAllocate.c in Sources */,
 				1A97C3491CB6D2A700B4BA8F /* apr7exercise1.c in Sources */,
 				1ADB284C1CCA840800D7A203 /* finalExam.c in Sources */,
@@ -400,6 +411,7 @@
 				1A1505091CB80EFE003AC3C3 /* checkThePrime.c in Sources */,
 				1A4EA4FC1CBD7F160060F2BB /* pointerArrayLoop.c in Sources */,
 				1A4EA4F31CBD62790060F2BB /* functionExersice2.c in Sources */,
+				1AF9FCE11CD2A06400043CC8 /* singlyLinkedList.c in Sources */,
 				1A97C34F1CB6E35800B4BA8F /* functionThreeNumberCompare.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

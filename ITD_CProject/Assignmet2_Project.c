@@ -81,5 +81,6 @@ void Assignmet2_Project(){
     
     puts("");
     
+    free(dynamicArray);
     
 }

@@ -12,11 +12,15 @@
 #include "dynamicArrayExer2.h"
 #include "Assignmet2_Project.h"
 #include "structureExer.h"
+#include "structureExer2.h"
+#include "singlyLinkedList.h"
 
 void mainCproject(){
     //Assginment1();
     //dynamicarrayExer();
     //dynamicArrayExer2();
-    Assignmet2_Project();
+    //Assignmet2_Project();
     //structureExer();
+    //structureExer2();
+    mainSinglyLinkedList();
 }

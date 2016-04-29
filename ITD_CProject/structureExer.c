@@ -89,7 +89,7 @@ void sumCourse(struct Course *ptr, struct Course *ptr2){
     
 }
 
-void structureExer2(){
+void structureExer2_0427(){
 
     struct Course mCorse;
     struct Course mCorse2;
@@ -119,5 +119,5 @@ void structureExer2(){
 void structureExer(){
     
     //structureExer1();
-    structureExer2();
+    structureExer2_0427();
 }
