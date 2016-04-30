@@ -14,6 +14,7 @@
 #include "structureExer.h"
 #include "structureExer2.h"
 #include "singlyLinkedList.h"
+#include "doublyLinkedList.h"
 
 void mainCproject(){
     //Assginment1();
@@ -22,5 +23,6 @@ void mainCproject(){
     //Assignmet2_Project();
     //structureExer();
     //structureExer2();
-    mainSinglyLinkedList();
+    //mainSinglyLinkedList();
+    doublyLinkedList();
 }

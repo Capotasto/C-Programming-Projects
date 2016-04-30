@@ -53,6 +53,7 @@
 		1AE6554E1CC56FB3004BF5C3 /* mainSecondHalf.c in Sources */ = {isa = PBXBuildFile; fileRef = 1AE6554C1CC56FB3004BF5C3 /* mainSecondHalf.c */; };
 		1AF9FCDE1CD2703700043CC8 /* structureExer2.c in Sources */ = {isa = PBXBuildFile; fileRef = 1AF9FCDC1CD2703700043CC8 /* structureExer2.c */; };
 		1AF9FCE11CD2A06400043CC8 /* singlyLinkedList.c in Sources */ = {isa = PBXBuildFile; fileRef = 1AF9FCDF1CD2A06400043CC8 /* singlyLinkedList.c */; };
+		1AF9FCE41CD3E79300043CC8 /* doublyLinkedList.c in Sources */ = {isa = PBXBuildFile; fileRef = 1AF9FCE21CD3E79300043CC8 /* doublyLinkedList.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -160,6 +161,8 @@
 		1AF9FCDD1CD2703700043CC8 /* structureExer2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = structureExer2.h; sourceTree = "<group>"; };
 		1AF9FCDF1CD2A06400043CC8 /* singlyLinkedList.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = singlyLinkedList.c; sourceTree = "<group>"; };
 		1AF9FCE01CD2A06400043CC8 /* singlyLinkedList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = singlyLinkedList.h; sourceTree = "<group>"; };
+		1AF9FCE21CD3E79300043CC8 /* doublyLinkedList.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = doublyLinkedList.c; sourceTree = "<group>"; };
+		1AF9FCE31CD3E79300043CC8 /* doublyLinkedList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = doublyLinkedList.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -187,6 +190,8 @@
 				1A14682C1CCFEB9E003729D5 /* mainCproject.c */,
 				1A14682D1CCFEB9E003729D5 /* mainCproject.h */,
 				1AF9FCDF1CD2A06400043CC8 /* singlyLinkedList.c */,
+				1AF9FCE21CD3E79300043CC8 /* doublyLinkedList.c */,
+				1AF9FCE31CD3E79300043CC8 /* doublyLinkedList.h */,
 				1AF9FCE01CD2A06400043CC8 /* singlyLinkedList.h */,
 				1A4430911CD1277500726AFE /* structureExer.c */,
 				1A4430921CD1277500726AFE /* structureExer.h */,
@@ -385,6 +390,7 @@
 				1AE6554B1CC56FA2004BF5C3 /* pointerFuncArray.c in Sources */,
 				1ABFC4991CC5594E004E2DF8 /* pointerFunction.c in Sources */,
 				1A4282511CC81049005C4CDC /* strToDouble.c in Sources */,
+				1AF9FCE41CD3E79300043CC8 /* doublyLinkedList.c in Sources */,
 				1ABFC4961CC53F30004E2DF8 /* pointerClass.c in Sources */,
 				1AE655471CC56E80004BF5C3 /* mainFirstHalf.c in Sources */,
 				1A15050F1CB8336E003AC3C3 /* arrayExersice.c in Sources */,

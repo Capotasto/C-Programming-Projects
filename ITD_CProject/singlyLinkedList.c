@@ -30,7 +30,7 @@ ListNode* insert(ListNode *startPtr, char item){
     
     ListNode* newPtr;
     ListNode* previousPtr;
-    ListNode* nextPtr;
+    //ListNode* nextPtr;
     ListNode* currentPtr;
     
     newPtr = (ListNode* )malloc(sizeof(ListNode));
@@ -120,9 +120,10 @@ void mainSinglyLinkedList(){
     
     size_t choise;
     char item;
+    instruction();
     
     while (choise != 3) {
-        instruction();
+        
         printf("? ");
         scanf("%zu", &choise);
 
